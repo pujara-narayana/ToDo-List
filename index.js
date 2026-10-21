@@ -26,6 +26,8 @@ function renderItems() {
         itemsDiv.appendChild(container)
     }
 }
+aefwepgjw[gk {]mfnb aefkb
+}
 function loadItems() {
     const oldItems = localStorage.getItem(storageKey)
     if (oldItems) items = JSON.parse(oldItems)
